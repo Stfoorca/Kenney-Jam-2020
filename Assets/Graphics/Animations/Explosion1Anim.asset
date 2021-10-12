@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d1f67283933fc0347829007b3b43fae1, type: 3}
+  m_Name: Explosion1Anim
+  m_EditorClassIdentifier: 
+  priority: 0
+  loop: 1
+  playBackwards: 0
+  defaultSpeed: 10
+  startingFrame: 0
+  sprites:
+  - {fileID: 21300000, guid: 85d6f7e28d28e0641835320b560f5dcd, type: 3}
+  - {fileID: 21300000, guid: 09710a668507927418e0bd996f37c9f6, type: 3}
+  - {fileID: 21300000, guid: aeab30ebc46ff4c44891bb0f67766810, type: 3}
+  - {fileID: 21300000, guid: 50086fea8dbf5344594a4d16cd87b469, type: 3}
+  - {fileID: 21300000, guid: 11ef29c17cd59594a8cf84fdd975700c, type: 3}

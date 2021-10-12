@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d1f67283933fc0347829007b3b43fae1, type: 3}
+  m_Name: Explosion2Anim
+  m_EditorClassIdentifier: 
+  priority: 0
+  loop: 1
+  playBackwards: 0
+  defaultSpeed: 10
+  startingFrame: 0
+  sprites:
+  - {fileID: 21300000, guid: dffad2d18f57e354e85d5b0d4bb1a7bf, type: 3}
+  - {fileID: 21300000, guid: 5fabbcf27cca8b447a0a3802fab9b23a, type: 3}
+  - {fileID: 21300000, guid: e64ae88e176ce4f4da92a5020929a589, type: 3}
+  - {fileID: 21300000, guid: 111920217390f5d43bd34473ffa7a278, type: 3}
+  - {fileID: 21300000, guid: dc45e0e6191724d4fb53f26aec922951, type: 3}
+  - {fileID: 21300000, guid: 015749777dda7a94cb962d45ce2dc57b, type: 3}
+  - {fileID: 21300000, guid: e51485a76f47f424b8e92c1bb351ec58, type: 3}
+  - {fileID: 21300000, guid: a6ac8a74a3b87064cb7ebf9592f1ea35, type: 3}
+  - {fileID: 21300000, guid: d0c5c9d8e4930064e9b6f2b035657d5e, type: 3}
+  - {fileID: 21300000, guid: 9b429f769a264aa4a979b87708cbcf91, type: 3}
+  - {fileID: 21300000, guid: 69cdf4c3d4806ee4db001206d6ddd2d8, type: 3}
+  - {fileID: 21300000, guid: 170d2c6728c277d49bed0053708815ef, type: 3}

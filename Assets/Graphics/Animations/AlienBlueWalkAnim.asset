@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d1f67283933fc0347829007b3b43fae1, type: 3}
+  m_Name: AlienBlueWalkAnim
+  m_EditorClassIdentifier: 
+  priority: 0
+  loop: 1
+  playBackwards: 0
+  defaultSpeed: 5
+  startingFrame: 0
+  sprites:
+  - {fileID: 21300000, guid: 1dcc57eb002b3c34c866cf8040259e6e, type: 3}
+  - {fileID: 21300000, guid: 189bb90951df98349a0bea505f53d42b, type: 3}
